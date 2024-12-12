@@ -1,4 +1,4 @@
-# FoodDeliveryPet
+# FoodDeliveryPet (wip)
 
 <a href="https://github.com/maksimir91/FoodDeliveryPet/tree/main/FoodDeliveryPet">**FoodDeliveryPet**</a>
 
@@ -18,7 +18,7 @@
 
 ![Frame 23](https://github.com/user-attachments/assets/f5b40410-9337-4091-901b-bf1de5eda722)
 
-# LanguageLearner
+# LanguageLearner (wip)
 
 <a href="https://github.com/maksimir91/LanguageLearner/tree/main/LanguageLearner.xcodeproj">**LanguageLearner**</a>
 
